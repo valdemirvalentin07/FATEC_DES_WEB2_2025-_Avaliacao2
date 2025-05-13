@@ -28,25 +28,6 @@ Tela de remover produto-
 ![image](https://github.com/user-attachments/assets/4a27175c-403e-45dc-b313-a6a7304f0812)
 
 
-Estrutura do Projeto
-
-
-
-Avaliação/
-│
-
-├── classes/
-│ └── DB.php # Classe com métodos privados de conexão e públicos para CRUD
-
-│
-├── cadastrar.php # Página de formulário para cadastro de produtos
-
-├── visualizar_produtos.php # Página para exibir e remover produtos
-
-├── home.php # Tela inicial após login
-
-├── login.php # Tela de login (requer validação)
-
 Tecnologias Utilizadas
 
 - **PHP 8+**
