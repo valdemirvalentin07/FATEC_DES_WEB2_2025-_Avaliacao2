@@ -9,7 +9,7 @@ try {
         $idRemover = intval($_GET['remover']);
         $stmt = $pdo->prepare("DELETE FROM produtos_artesanais WHERE id = ?");
         $stmt->execute([$idRemover]);
-        header("Location: remover.php?msg=removido");
+        header("Location: home.php?msg=removido");
         exit;
     }
 
