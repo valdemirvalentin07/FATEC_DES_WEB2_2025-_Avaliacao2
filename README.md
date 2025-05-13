@@ -34,12 +34,17 @@ Estrutura do Projeto
 
 Avaliação/
 │
+
 ├── classes/
 │ └── DB.php # Classe com métodos privados de conexão e públicos para CRUD
+
 │
 ├── cadastrar.php # Página de formulário para cadastro de produtos
+
 ├── visualizar_produtos.php # Página para exibir e remover produtos
+
 ├── home.php # Tela inicial após login
+
 ├── login.php # Tela de login (requer validação)
 
 Tecnologias Utilizadas
