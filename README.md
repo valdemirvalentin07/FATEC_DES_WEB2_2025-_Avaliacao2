@@ -9,8 +9,10 @@ Este é um sistema web simples desenvolvido em PHP para gerenciar o cadastro de 
 - Remover produtos
 - Login com verificação de sessão
 
-
 Tela Login-
+
+
+
   ![image](https://github.com/user-attachments/assets/c579a5fc-de2a-455a-8ad5-2fc7bff96f0f)
 
 Tela exibindo mútiplas funcionalidades-
@@ -27,6 +29,9 @@ Tela de remover produto-
 
 
 Estrutura do Projeto
+
+
+
 Avaliação/
 │
 ├── classes/
