@@ -116,9 +116,7 @@ try {
     </header>
 
     <main>
-        <?php if (isset($_GET['msg']) && $_GET['msg'] === 'removido'): ?>
-            <p class="mensagem">Produto removido com sucesso.</p>
-        <?php endif; ?>
+       
 
         <?php if (isset($produtos) && is_array($produtos) && count($produtos) > 0): ?>
 
