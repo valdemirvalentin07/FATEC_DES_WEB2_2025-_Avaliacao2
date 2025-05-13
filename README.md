@@ -21,7 +21,7 @@ Tela exibindo mútiplas funcionalidades-
 Tela de cadastro-
 ![image](https://github.com/user-attachments/assets/535a39a6-ccb6-47eb-8ba3-64a37f6d9274)
 
-Tela de vizualizar cadastro-
+Tela de visualizar cadastro-
 ![image](https://github.com/user-attachments/assets/7d855c2e-65b2-4395-aa15-f297ce40eb0e)
 
 Tela de remover produto-
