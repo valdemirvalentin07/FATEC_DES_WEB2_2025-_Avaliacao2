@@ -1,5 +1,5 @@
 <?php
-require_once 'classes/DB.php'; // certifique-se de que o caminho esteja correto
+require_once 'classes/DB.php'; 
 
 $mensagem = "";
 
