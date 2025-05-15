@@ -39,7 +39,7 @@ class DB {
      private $pdo;
 
 public function __construct() {
-    $config = require __DIR__ . '/config/config.php'; // Caminho relativo correto
+    $config = require __DIR__ . '/config/config.php'; // Caminho para proteger os dados 
     $this->conectar($config);
 }
       private function conectar($config) {
